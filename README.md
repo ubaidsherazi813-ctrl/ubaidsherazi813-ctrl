@@ -1,5 +1,4 @@
-## Hi there 👋
-Myself Muhammad Ubaid
+## Hi there 👋 Myself Muhammad Ubaid
 💻 Software Engineer at MUET Khairpur
 
 - I’m currently working on ...
