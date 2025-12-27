@@ -20,6 +20,7 @@ ______________________________________________________________________________
 <br>
  Skills & Tools
  <br>
+ <br>
 💻 Programming: C++ (learning), C
 <br>
 🎨 Design: Canva
@@ -27,18 +28,22 @@ ______________________________________________________________________________
 🌐 Git & GitHub for version control
 <br>
  🤔 I’m looking for help with ...
+ <br>
 _____________________________________________________________________________
 <br>
  Goals
+ <br>
  <br>
 🚀 Improve C++ problem solving
 <br>
 ✨ Build creative projects
 <br>
 📂 Contribute to open-source
+<br>
 _____________________________________________________________________________
 <br>
 🤝 Connect With Me
+<br>
 <br>
 📧 Email:  [ubaidsherazi813@gmail.com] 
 <br>
