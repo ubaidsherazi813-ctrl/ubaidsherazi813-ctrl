@@ -2,15 +2,17 @@
 💻 Software Engineer at MUET Khairpur
 
 - I’m currently working on ...
-- ___________________________________________________________________________
+___________________________________________________________________________
 🚀 Currently learning C++ and Problem Solving
 🎨 Exploring Canva Designing alongside coding
 📚 Passionate about improving my coding skills & building cool projects
 
 - 🌱 I’m currently learning ...
+---------------------------------------------------------------------------------
 🔹 C++ (Basics → Problem Solving → Advanced)
 🔹 Problem Solving & Algorithms
 🔹 Canva Design for creativity
+______________________________________________________________________________
   
 - Skills & Tools
 💻 Programming: C++ (learning), C
