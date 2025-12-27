@@ -1,7 +1,7 @@
 ## Hi there 👋 Myself Muhammad Ubaid
 💻 Software Engineer at MUET Khairpur
 ____________________________________________________________________________
-- I’m currently working on ...
+- I’m currently working on
 - <br>
 🚀 Currently learning C++ and Problem Solving
 <br>
