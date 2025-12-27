@@ -10,8 +10,8 @@ ____________________________________________________________________________
 🎨 Exploring Canva Designing alongside coding
 <br>
 📚 Passionate about improving my coding skills & building cool projects
-<br>
 ____________________________________________________________________________
+<br>
  🌱 I’m currently learning ...
 <br>
 <br>
@@ -20,8 +20,8 @@ ____________________________________________________________________________
 🔹 Problem Solving & Algorithms
 <br>
 🔹 Canva Design for creativity
-<br>
 ______________________________________________________________________________
+<br>
  Skills & Tools
  <br>
  <br>
