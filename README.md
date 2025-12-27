@@ -1,16 +1,14 @@
 ## Hi there 👋 Myself Muhammad Ubaid
 💻 Software Engineer at MUET Khairpur
-
+____________________________________________________________________________
 - I’m currently working on ...
-___________________________________________________________________________
 🚀 Currently learning C++ and Problem Solving
 <br>
 🎨 Exploring Canva Designing alongside coding
 <br>
 📚 Passionate about improving my coding skills & building cool projects
-
+____________________________________________________________________________
 - 🌱 I’m currently learning ...
----------------------------------------------------------------------------------
 🔹 C++ (Basics → Problem Solving → Advanced)
 <br>
 🔹 Problem Solving & Algorithms
@@ -26,6 +24,7 @@ ______________________________________________________________________________
 🌐 Git & GitHub for version control
 <br>
 - 🤔 I’m looking for help with ...
+____________________________________________________________________________________
 
 - Goals
 🚀 Improve C++ problem solving
@@ -33,6 +32,7 @@ ______________________________________________________________________________
 ✨ Build creative projects
 <br>
 📂 Contribute to open-source
+_______________________________________________________________________________________
 
 🤝 Connect With Me
 📧 Email:  [ubaidsherazi813@gmail.com] 
