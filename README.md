@@ -1,16 +1,30 @@
 ## Hi there 👋
+Myself Muhammad Ubaid
+💻 Software Engineer at MUET Khairpur
 
-<!--
-**ubaidsherazi813-ctrl/ubaidsherazi813-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working on ...
+💻 Software Engineer at MUET Khairpur
+🚀 Currently learning C++ and Problem Solving
+🎨 Exploring Canva Designing alongside coding
+📚 Passionate about improving my coding skills & building cool projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+🔹 C++ (Basics → Problem Solving → Advanced)
+🔹 Problem Solving & Algorithms
+🔹 Canva Design for creativity
+  
+- Skills & Tools
+💻 Programming: C++ (learning), C
+🎨 Design: Canva
+🌐 Git & GitHub for version control
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Goals
+🚀 Improve C++ problem solving
+✨ Build creative projects
+📂 Contribute to open-source
+
+🤝 Connect With Me
+📧 Email:  [ubaidsherazi813@gmail.com] 
+🌐 LinkedIn: []
+
