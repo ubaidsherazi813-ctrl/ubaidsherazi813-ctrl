@@ -6,6 +6,7 @@ ___________________________________________________________________________
 🚀 Currently learning C++ and Problem Solving
 <br>
 🎨 Exploring Canva Designing alongside coding
+<br>
 📚 Passionate about improving my coding skills & building cool projects
 
 - 🌱 I’m currently learning ...
