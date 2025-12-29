@@ -10,7 +10,6 @@ ____________________________________________________________________________
 <br>
 📚 Passionate about improving my coding skills & building cool projects
 ____________________________________________________________________________
-<br>
  🌱 I’m currently learning ...
 <br>
 <br>
