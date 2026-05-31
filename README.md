@@ -4,7 +4,7 @@ ____________________________________________________________________________
  I’m currently working on
  <br>
  <br>
-🚀 Currently learning C++ and Problem Solving
+🚀 Currently learning AI/ML and Problem Solving
 <br>
 🎨 Exploring Canva Designing alongside coding
 <br>
@@ -13,7 +13,7 @@ ____________________________________________________________________________
  🌱 I’m currently learning ...
 <br>
 <br>
-🔹 C++ (Basics → Problem Solving → Advanced)
+🔹 python (Basics → Problem Solving → Advanced)
 <br>
 🔹 Problem Solving & Algorithms
 <br>
@@ -22,7 +22,7 @@ ______________________________________________________________________________
  Skills & Tools
  <br>
  <br>
-💻 Programming: C++ (learning), C
+💻 Programming: C++ (learning), C , java
 <br>
 🎨 Design: Canva
 <br>
@@ -33,7 +33,7 @@ _____________________________________________________________________________
  Goals
  <br>
  <br>
-🚀 Improve C++ problem solving
+🚀 Improve python problem solving
 <br>
 ✨ Build creative projects
 <br>
