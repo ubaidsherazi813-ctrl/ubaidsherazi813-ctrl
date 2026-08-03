@@ -59,31 +59,31 @@ A motivated and disciplined student focused on strengthening programming fundame
 ### 📈 Overall Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=Shahzeb047&show_icons=true&hide_border=true&theme=default" height="160" />
+  <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=Ubaid022&show_icons=true&hide_border=true&theme=default" height="160" />
 </p>
 
 ### 🗃️ Language Usage
 
 <p align="center">
-  <img src="https://github-readme-stats-plus-theta.vercel.app/api/top-langs/?username=Shahzeb047&layout=compact&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-plus-theta.vercel.app/api/top-langs/?username=Ubaid022&layout=compact&hide_border=true" height="160" />
 </p>
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shahzeb047&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Ubaid022&hide_border=true" height="160" />
 </p>
 
 ### 📉 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahzeb047&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ubaid022&hide_border=true" />
 </p>
 
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shahzeb047&theme=flat&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ubaid022&theme=flat&no-frame=true" />
 </p>
 
 <br>
