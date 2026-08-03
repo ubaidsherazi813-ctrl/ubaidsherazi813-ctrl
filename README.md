@@ -6,7 +6,7 @@
 
 <div align="center">
 
-🎓 **Student** | 💻 **Aspiring Software Engineer** | 📊 **Data Analyst Enthusiast**
+🎓 **Student** | 💻 **Aspiring Software Engineer** | 📊 **AI/ML Engineer**
 
 A motivated and disciplined student focused on strengthening programming fundamentals, logical thinking, and practical software development skills.
 
