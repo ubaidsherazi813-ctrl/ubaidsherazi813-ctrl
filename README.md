@@ -108,7 +108,7 @@ A motivated and disciplined student focused on strengthening programming fundame
 ## 🤝 Professional Profile
 
 <p align="left">
-  <a href="mailto:shahzebaliarain996@gmail.com">
+  <a href="mailto:ubaidsherazi813@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ubaidsherazi813-ctrl" target="_blank">
