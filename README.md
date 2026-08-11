@@ -59,13 +59,13 @@ A motivated and disciplined student focused on strengthening programming fundame
 ### 📈 Overall Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=ubaidsherazi813-ctrl&show_icons=true&hide_border=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ubaidsherazi813-ctrl&show_icons=true&hide_border=true&theme=default" height="160" />
 </p>
 
 ### 🗃️ Language Usage
 
 <p align="center">
-  <img src="https://github-readme-stats-plus-theta.vercel.app/api/top-langs/?username=ubaidsherazi813-ctrl&layout=compact&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidsherazi813-ctrl&layout=compact&hide_border=true" height="160" />
 </p>
 
 ### 🔥 Contribution Streak
